@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/303.012a0e22.chunk.js","mappings":"iMAEaA,E,QAAQC,GAAAA,GAAH","sources":["pages/HomePage/HomePage.module.styled.jsx"],"sourcesContent":["import styled from 'styled-components';\n\nexport const Title = styled.h1`\n  text-align: center;\n  margin: 12px 0;\n  font-style: initial;\n`;\n"],"names":["Title","styled"],"sourceRoot":""}

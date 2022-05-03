@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoit_react_hw_05_movies=self.webpackChunkgoit_react_hw_05_movies||[]).push([[303],{8303:function(n,t,e){e.r(t),e.d(t,{Title:function(){return a}});var i,r=e(168),a=e(5751).ZP.h1(i||(i=(0,r.Z)(["\n  text-align: center;\n  margin: 12px 0;\n  font-style: initial;\n"])))}}]);
+//# sourceMappingURL=303.012a0e22.chunk.js.map
